@@ -1,10 +1,10 @@
-# python-challenge
+# python-challenge (Kevin Linder)
 
 This readme includes sources for both scripts required in this 
 assignment (main.py for PyBank) and main.py for PyPoll.
 
 The sources referenced below are linked to comments in the code, 
-indicated by their number (all references to (1) in the code refer to the source listed at (1) below).
+indicated by their number (For example: all references to (1) in the code refer to the source listed at (1) below in the README).
 ------------------------------------------------------------------------------------------------------------
 
 # Sources for PyBank
