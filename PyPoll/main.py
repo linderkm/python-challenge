@@ -23,6 +23,7 @@ candidate3_count = 0
 for i in range(len(data)):
 
     #conditional to check if string matches specific candidate's name. If there's a match, update the total vote count variable and respective candidate's counter variable. (4)
+    # the 'data' object is a list of lists, so I am using two index values '[i][2]' to access the [i] list (i being the current iteration of the for loop), and [2] to access the third index of the nested list (where I will find the string value).
     if data[i][2] == "Charles Casper Stockham":
         candidate1_count += 1
         vote_count += 1
