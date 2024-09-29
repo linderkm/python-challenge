@@ -23,6 +23,12 @@ indicated by their number (all references to (1) in the code refer to the source
 
 (7) https://stackoverflow.com/questions/34010106/python-open-and-write-to-a-txt-file
 
+(8) Module 3; Class 2; Activity 2 (simple_loops_solution.py)
+
+(9) Module 3; Class 1; Activity 7 (conditionals_solution.py)
+
+(10) Module 3; Class 3; Activity 1 (cereal_solution.py)
+
 -----------------------------------------------------------------------------------------------------------
 
 # Sources for PyPoll
