@@ -43,6 +43,6 @@ indicated by their number (all references to (1) in the code refer to the source
 
 (5) Module 3; Class 3; Activity 1 (cereal_solution.py)
 
-(6) (4) https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
+(6) https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
 
 (7) https://stackoverflow.com/questions/34010106/python-open-and-write-to-a-txt-file
