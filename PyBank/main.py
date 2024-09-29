@@ -117,7 +117,7 @@ with open (input_path, 'r') as datafile:
     print(f"Total: ${total_profit}")
 
     avg_change = average_change(csvdata)
-    print(f"Average Change: {avg_change}")
+    print(f"Average Change: ${avg_change}")
 
     greatest_increase, greatest_increase_date = greatest_increase(csvdata) #creating two independent variables with the unique return values from greatest_incraese() (6)
     print(f"Greatest Increase in Profits: {greatest_increase_date} (${greatest_increase})")
