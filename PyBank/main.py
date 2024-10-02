@@ -137,7 +137,7 @@ with open (output_path, "w") as output_txt:
     output_txt.write("-------------------------" + "\n")
     output_txt.write(f"Total Months: {total_months}" + "\n")
     output_txt.write(f"Total: ${total_profit}" + "\n")
-    output_txt.write(f"Average Change: {avg_change}" + "\n")
+    output_txt.write(f"Average Change: ${avg_change}" + "\n")
     output_txt.write(f"Greatest Increase in Profits: {greatest_increase_date} (${greatest_increase})" + "\n")
     output_txt.write(f"Greatest Decrease in Profits: {greatest_decrease_date} (${greatest_decrease})" + "\n")
 
