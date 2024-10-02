@@ -56,9 +56,10 @@ def greatest_increase(x):
 
     for i in range(len(changevalues)):
 
-        #conditional to evaluate if value in list is greater than the stored value (9)
+        #conditional to evaluate if value in list is greater than the stored value (9). If the value is greater, it becomces the new greatest value.
         if int(changevalues[i]) > value:
             value = int(changevalues[i])
+            #capturing the string value associated with the greatest increase in the input data. The string_value list index is offset by i (i+1) due to the different list lenghts that result from calculating changevalues above.
             value_pair = string_value[(i+1)]
 
     #function returns two values (6)
