@@ -7,7 +7,7 @@ The sources referenced below are linked to comments in the code,
 indicated by their number (For example: all references to (1) in the code refer to the source listed at (1) below in the README).
 ------------------------------------------------------------------------------------------------------------
 
-# Sources for PyBank
+# Sources for PyBank 'main.py'
 
 (1) Module 3; Class 2; Activity 8 (read_csv_solution.py)
 
@@ -31,7 +31,7 @@ indicated by their number (For example: all references to (1) in the code refer 
 
 -----------------------------------------------------------------------------------------------------------
 
-# Sources for PyPoll
+# Sources for PyPoll 'main.py'
 
 (1) Module 3; Class 2; Activity 8 (read_csv_solution.py)
 
